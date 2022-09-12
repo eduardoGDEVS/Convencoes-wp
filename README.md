@@ -1,9 +1,5 @@
 ### GD Padrões de desenvolvimento.
 
-## Estrutura do projeto
-
----
-
 ## Front-end
 
 ### Artigo: CSS Coding Standards
