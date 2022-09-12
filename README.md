@@ -48,10 +48,16 @@
 **wp-content/**
 - admin/
   - settings-pages.php `Opcional, no caso de opções avançadas em que o customizer.php não seja suportado.`
+  - scripts-and-styles.php `Para adicionar js e css no admin.`
   - post-types.php
   - menu-items.php
-  - scripts-and-styles.php
-  - customizer.php 
+  - menu-pages.php
+  - templates/ `Contendo arquivos que alteram a estrutura do admin como a dashboard (ex: dashboard.php)`
+  - assets/
+    - css/
+    - images/
+    - js/
+    - vendor/ 
 - wp-api/ `Opcional. Usado para configuração ou alteração da RESTApi padrão do WP`
 - api/ `Opcional. Contém arquivos para configuração e uso de apis externas` 
     
