@@ -32,7 +32,7 @@
   - customizer/
     - register.php
     - scripts-and-styles.php
-    - constants.php `Para gravar`
+    - constants.php `Para gravar em constantes os valoes obtidos do customizer`
   - actions.php
   - filters.php
   - api.php ``Opcional. Apenas para incluir os arquivos de configuração das api's da pasta **wp-content/api**`
