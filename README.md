@@ -1,4 +1,4 @@
-### GD Padrões de desenvolvimento.
+### GD Padrões de desenvolvimento com WordPress.
 
 ## Front-end
 
