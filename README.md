@@ -20,7 +20,7 @@
 
 ---
 
-### Estrutura das pastas do tema
+## Estrutura das pastas do tema
 
 **wp-content/themes/*nome-do-projeto*/**
 - assets/
