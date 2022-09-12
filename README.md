@@ -35,7 +35,7 @@
     - constants.php `Para gravar em constantes os valoes obtidos do customizer`
   - actions.php
   - filters.php
-  - api.php ``Opcional. Apenas para incluir os arquivos de configuração das api's da pasta **wp-content/api**`
+  - api.php `Opcional. Apenas para incluir os arquivos de configuração das api's da pasta **wp-content/api**`
 - template-parts/
   - footer/
   - header/
