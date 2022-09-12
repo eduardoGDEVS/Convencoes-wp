@@ -50,8 +50,7 @@
   - settings-pages.php `Opcional, no caso de opções avançadas em que o customizer.php não seja suportado.`
   - scripts-and-styles.php `Para adicionar js e css no admin.`
   - post-types.php
-  - menu-items.php
-  - menu-pages.php
+  - menu-pages-and-items.php
   - templates/ `Contendo arquivos que alteram a estrutura do admin como a dashboard (ex: dashboard.php)`
   - assets/
     - css/
