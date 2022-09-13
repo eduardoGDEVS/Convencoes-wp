@@ -33,7 +33,7 @@ Començando pela convenção mais simples, os padrões para nomenclaturas de ban
 
 ### Estrutura das pastas do tema
 
-**wp-content/themes/*nome-do-projeto*/**
+**wp-content/themes/{*nome-do-projeto*}/**
 - assets/
   - css/
   - images/ `Apenas imagens estáticas`
