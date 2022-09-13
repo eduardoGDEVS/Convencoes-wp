@@ -46,7 +46,7 @@ Prefixo das tabelas: wp_{*nome-do-projeto ou cliente*}_
     - constants.php `Para gravar em constantes os valoes obtidos do customizer`
   - actions.php
   - filters.php
-  - config.php
+  - config.php `Acidiona os suportes a menus, thumbnails e posts, além de outras configurações básicas necessárias.`
   - api.php `Opcional. Apenas para incluir os arquivos de configuração das api's da pasta **wp-content/api**`
 - template-parts/
   - global/ 
