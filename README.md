@@ -38,6 +38,7 @@
   - config.php
   - api.php `Opcional. Apenas para incluir os arquivos de configuração das api's da pasta **wp-content/api**`
 - template-parts/
+  - global/ 
   - footer/
   - header/
   - navigation/
