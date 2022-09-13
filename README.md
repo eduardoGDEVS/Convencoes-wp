@@ -4,7 +4,9 @@
 
 Començando pela convenção mais simples, os padrões para nomenclaturas de bancos de dados ficam assim:
 
-Título do banco: {*nome-do-projeto*}-{*tipo-do-projeto*}-wordpress `Tipo do projeto: cms, api, site, etc` `Ex: netflix-api-wordpress, disney-promocao-natal-wordpress`
+Título do banco: {*nome-do-projeto*}-{*tipo-do-projeto*}-wordpress 
+`Tipo do projeto: cms, api, site, etc` `Ex: netflix-api-wordpress, disney-promocao-natal-wordpress`
+
 Prefixo das tabelas: wp_{*nome-do-projeto*}_
 
 ---
