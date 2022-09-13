@@ -1,6 +1,6 @@
 ### GD Padrões de desenvolvimento com WordPress.
 
-## Database
+### Database
 
 Començando pela convenção mais simples, os padrões para nomenclaturas de bancos de dados ficam assim:
 
@@ -11,27 +11,27 @@ Prefixo das tabelas: wp_{*nome-do-projeto ou cliente*}_
 
 ---
 
-## Front-end
+### Front-end
 
-### Artigo: CSS Coding Standards
+**Artigo: CSS Coding Standards**<br>
 [Acesso ao link](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/)
 
-### Artigo: HTML Coding Standards
+**Artigo: HTML Coding Standards**<br>
 [Acesso ao link](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/)
 
-### Artigo: JavaScript Coding Standards
+**Artigo: JavaScript Coding Standards**<br>
 [Acesso ao link](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/javascript/)
 
 ---
 
-## Back-end
+### Back-end
 
-### Artigo: PHP Coding Standards
+**Artigo: PHP Coding Standards**<br>
 [Acesso ao link](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/)
 
 ---
 
-## Estrutura das pastas do tema
+### Estrutura das pastas do tema
 
 **wp-content/themes/*nome-do-projeto*/**
 - assets/
