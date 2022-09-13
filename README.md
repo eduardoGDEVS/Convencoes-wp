@@ -1,4 +1,4 @@
-### GD Padrões de desenvolvimento com WordPress.
+### Padrões de desenvolvimento com WordPress.
 
 ### Database
 
