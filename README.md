@@ -17,7 +17,7 @@ Començando pela convenção mais simples, os padrões para nomenclaturas de ban
 [Acesso ao link](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/)
 
 **Artigo: HTML Coding Standards**<br>
-[Acesso ao link](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/)
+[Acesso ao link](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/html/)
 
 **Artigo: JavaScript Coding Standards**<br>
 [Acesso ao link](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/javascript/)
