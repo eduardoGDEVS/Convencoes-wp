@@ -40,6 +40,8 @@
   - footer/
   - header/
   - navigation/
+  - modals/
+  - forms/
   - page/
   - post/
   - *podemos também ter pastas para cada **post_type** cadastrado.*
