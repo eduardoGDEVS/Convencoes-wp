@@ -42,10 +42,11 @@ Prefixo das tabelas: wp_{*nome-do-projeto ou cliente*}_
 - inc/
   - customizer/
     - register.php
-    - scripts-and-styles.php
+    - scripts-and-styles.php `JS e CSS do customizer`
     - constants.php `Para gravar em constantes os valoes obtidos do customizer`
   - actions.php
   - filters.php
+  - scripts-and-styles.php `JS e CSS do tema`
   - config.php `Acidiona os suportes a menus, thumbnails e posts, além de outras configurações básicas necessárias.`
   - api.php `Opcional. Apenas para incluir os arquivos de configuração das api's da pasta **wp-content/api**`
 - template-parts/
