@@ -78,3 +78,11 @@ Començando pela convenção mais simples, os padrões para nomenclaturas de ban
     
 **Artigo: Organizing front end files and folders**<br>
 [Acesso ao link](https://developer.wordpress.org/themes/basics/organizing-theme-files/)
+
+---
+
+### Próximos passos:
+https://developer.wordpress.org/plugins/security/securing-output/
+https://phpqa.io/projects/phpcbf.html
+https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose-pt
+
