@@ -61,8 +61,8 @@ Començando pela convenção mais simples, os padrões para nomenclaturas de ban
   - *podemos também ter pastas para cada **post_type** cadastrado.*
 - templates/ `Templates para posts ou páginas`
   
-**wp-content/admin**
-- config/
+**wp-content/**
+- admin/
   - post-types.php
   - settings-pages.php `Opcional, no caso de opções avançadas em que o customizer.php não seja suportado.`
   - scripts-and-styles.php `Para adicionar js e css no admin.`
