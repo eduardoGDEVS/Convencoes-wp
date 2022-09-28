@@ -85,4 +85,5 @@ Començando pela convenção mais simples, os padrões para nomenclaturas de ban
 https://developer.wordpress.org/plugins/security/securing-output/<br>
 https://phpqa.io/projects/phpcbf.html<br>
 https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose-pt
+https://github.com/brandonwamboldt/wp-orm
 
