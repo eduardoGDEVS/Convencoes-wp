@@ -46,6 +46,7 @@ Començando pela convenção mais simples, os padrões para nomenclaturas de ban
     - constants.php `Para gravar em constantes os valoes obtidos do customizer`
   - actions.php
   - filters.php
+  - functions.php `Funções personalizadas`
   - scripts-and-styles.php `JS e CSS do tema`
   - config.php `Acidiona os suportes a menus, thumbnails e posts, além de outras configurações básicas necessárias.`
   - api.php `Opcional. Apenas para incluir os arquivos de configuração das api's da pasta **wp-content/api**`
