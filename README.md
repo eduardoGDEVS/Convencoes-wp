@@ -68,6 +68,7 @@ Començando pela convenção mais simples, os padrões para nomenclaturas de ban
   - settings-pages.php `Opcional, no caso de opções avançadas em que o customizer.php não seja suportado.`
   - scripts-and-styles.php `Para adicionar js e css no admin.`
   - menu-items.php `Para adicionar itens no menu e novas páginas ao admin.`
+  - user-roles.php `Restrições e permissões de acesso e regras de usuários.`
   - inc/
     - menu-pages/ `Contendo arquivos que alteram a estrutura do admin como a dashboard (ex: dashboard.php)`
   - assets/
